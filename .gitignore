@@ -1,0 +1,13 @@
+db.*
+*/env/
+*.pyc
+*.pyo
+*.log
+*db_tmp
+/static
+/myenv
+/env
+/media
+local_settings.py
+**/migrations/
+template_site_db_tmp
