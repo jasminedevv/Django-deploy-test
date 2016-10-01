@@ -1,2 +1,2 @@
-# django-meetup-event
-A Django module that hits the Meetup api to display the next scheduled meetup on your website.
+# Django Deploy Test
+A simple Django project that displays a template site with static files for testing a server setup.
